@@ -1,0 +1,15 @@
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\bin\Debug\net6.0\lab 5 exception.exe
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\bin\Debug\net6.0\lab 5 exception.deps.json
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\bin\Debug\net6.0\lab 5 exception.runtimeconfig.json
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\bin\Debug\net6.0\lab 5 exception.dll
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\bin\Debug\net6.0\lab 5 exception.pdb
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.csproj.AssemblyReference.cache
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.AssemblyInfoInputs.cache
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.AssemblyInfo.cs
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.csproj.CoreCompileInputs.cache
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.dll
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\refint\lab 5 exception.dll
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.pdb
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\lab 5 exception.genruntimeconfig.cache
+C:\Users\diako\Desktop\object oriented programming 2\lab 5 exception\obj\Debug\net6.0\ref\lab 5 exception.dll
